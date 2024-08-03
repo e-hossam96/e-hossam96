@@ -17,3 +17,11 @@ AI researcher specializing in NLP with over 2 years of experience and more than 
     - Developed training and learning plans aligned with the company's values and needs for incoming and current junior AI developers.
     - Participated in interviewing and evaluating potential interns, ensuring alignment with the company's technical requirements and cultural values.
     - Represented the company at the [Techne Summit](https://cairo.technesummit.com/2024) Event, Cairo 2024.
+
+- [Udacity](https://www.udacity.com/) | [DECI](https://deci.gov.eg/) - Cairo, Egypt - Contract - Remote
+
+  - **Session Lead / Mentor** - Sep. 2022 - Present
+    - Delivered weekly Connect sessions on elementary programming with Python, Web Development, Data Analysis, AI, Cyber Security, Digital Arts, Electric Circuits, Embedded Systems, and Computer Architecture.
+    - Mentored students during sessions and office hours, monitoring their progress and attendance to ensure a standard benchmark of knowledge.
+    - Adhered to Udacity's content delivery criteria by using a simplified, friendly, and formal teaching language, and maintained a safe learning environment for students.
+    - Achieved an average rating of 4.55/5 and an 85% average graduation rate in cohort one.
