@@ -29,6 +29,6 @@ AI researcher specializing in NLP with over 2 years of experience and more than 
 - [The British University in Egypt (BUE)](https://www.bue.edu.eg/) - Cairo, Egypt - Full Time - On Site
 
   - **Teaching Assistant of Mathematics** - Oct. 2021 - Sep. 2022
-    - Delivered tutorials in various undergraduate courses, Probability, Statistics, Numerical Methods, Differential Equations, and Calculus.
-    - Assisted course professors in course logistics including reporting students' attendance, exam marking, and course archiving on the university's cloud system.
-    - Achieved an average satisfaction score of 4.63/5 of students' feedback.
+    - Delivered tutorials in various undergraduate courses, including Probability, Statistics, Numerical Methods, Differential Equations, and Calculus.
+    - Assisted course professors with course logistics, including reporting student attendance, exam marking, and archiving courses on the university's cloud system.
+    - Achieved an average satisfaction score of 4.63/5 based on student feedback.
