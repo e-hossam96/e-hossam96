@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I’m Hossam, an AI researcher specializing in NLP
 - 🌍 **Location:** Cairo, Egypt
 - 🎓 **Mentorship & Teaching:** I lead sessions for **Udacity’s DECI** Program, covering topics like Python, AI, and more
 - 🎤 **Tech Advocate:** Represented my company at **Techne Summit Cairo 2024**
+- 📖 **Personal Development:** I'm a McKinsey & Company's Forward Program Alumnus
 
 ## 🛠 **Skills & Technologies**
 
