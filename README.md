@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I’m Hossam, an AI researcher specializing in NLP
 - 🏢 **Last Position:** NLP Data Scientist at [ISemantics](https://www.isemantics.ai) (July 2022 - September 2024).
 - 🧠 **Education:** B.Sc. in Nuclear & Radiation Engineering from Alexandria University, Egypt.
 - 🎓 **Mentorship & Teaching:** I lead sessions for [Udacity](https://www.udacity.com/)’s [DECI](https://deci.gov.eg/) Program, covering topics like Python, AI, and more.
-- 🎤 **Tech Advocate:** Represented my company at **Techne Summit Cairo 2024**.
-- 📖 **Personal Development:** I'm a McKinsey & Company's Forward Program Alumnus.
+- 🎤 **Tech Advocate:** Represented ISemantics company at [Techne Summit Cairo 2024](https://cairo.technesummit.com/2024).
+- 📖 **Personal Development:** I'm a **McKinsey & Company**'s [Forward Program](https://www.mckinsey.com/forward/overview) Alumnus.
 - 🌍 **Location:** Cairo, Egypt.
 
 ## 🛠 **Skills & Technologies**
