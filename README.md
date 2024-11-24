@@ -1,29 +1,25 @@
-# Hi there, I'm Hossam Gamal Mostafa 👋
+# Hi there 👋 My name is Hossam Gamal Mostafa
 
-## NLP Researcher and Developer | AI Enthusiast
+I'm an **NLP Researcher and Developer** with ~3 years of professional experience. Also, I'm an expert in Deep Learning and NLP with hands-on experience developing efficient and high-performing AI solutions.
 
-Welcome to my GitHub profile! I’m Hossam, an AI researcher specializing in NLP with over 2 years of experience and more than 4 years of AI and ML study. I love NLP and AI in general. I'm always trying to be better.
+## My main Areas of Experience
 
-## 🔍 **About Me**
+- Multilingual NLP and LLMs
+- Information Extraction
+- Sentiment Analysis
+- Propaganda and Hate Speech Detection
+- RAG Applications
 
-- 🏢 **Last Position:** NLP Data Scientist at [ISemantics](https://www.isemantics.ai) (July 2022 - September 2024).
-- 🧠 **Education:** B.Sc. in Nuclear & Radiation Engineering from Alexandria University, Egypt.
-- 🎓 **Mentorship & Teaching:** I lead sessions for [Udacity](https://www.udacity.com/)’s [DECI](https://deci.gov.eg/) Program, covering topics like Python, AI, and more.
-- 🎤 **Tech Advocate:** Represented ISemantics company at [Techne Summit Cairo 2024](https://cairo.technesummit.com/2024).
-- 📖 **Personal Development:** I'm a **McKinsey & Company**'s [Forward Program](https://www.mckinsey.com/forward/overview) Alumnus.
-- 🌍 **Location:** Cairo, Egypt.
+I also have expertise in integrating my solutions into working applications (e.g. web applications) according to guidelines in cross-functional teams.
 
-## 🛠 **Skills & Technologies**
+I also have a working knowledge of data structures and algorithms, problem-solving, and project management.
 
-- **Programming Languages:** Python, HTML/CSS, MATLAB, C++
-- **Developer Tools:** Git/GitHub, Jira, Notion, Docker, Postman
-- **Frameworks:** PyTorch, Transformers, Stanza, SciKit-learn, Weights & Biases, LangChain, LlamaIndex, Gradio, Flask
-- **NLP Specialties:** Large Language Models (LLMs), Aspect-Based Sentiment Analysis (ABSA), Named Entity Recognition (NER)
+I'm always trying to improve and keep myself updated with the latest changes in the field.
 
-## 📫 **Let’s Connect!**
+I'm currently looking for a new challenge. Please get in touch with me to discuss how I might be helpful to your organization.
 
-- 📧 **Email:** [e-hossam96@outlook.com](mailto:e-hossam96@outlook.com)
-- 💼 **LinkedIn:** [linkedin.com/in/e-hossam96](https://www.linkedin.com/in/e-hossam96)
-- 🤗 **HuggingFace:** [huggingface.co/e-hossam96](https://huggingface.co/e-hossam96)
+## Let's Connect!
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/e-hossam96)](https://leetcode.com/e-hossam96)
+- Email: [e-hossam96@outlook.com](mailto:e-hossam96@outlook.com)
+- LinkedIn: [linkedin.com/in/e-hossam96](https://www.linkedin.com/in/e-hossam96)
+- HuggingFace: [huggingface.co/e-hossam96](https://huggingface.co/e-hossam96)
