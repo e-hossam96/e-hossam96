@@ -1,22 +1,20 @@
-# Hi there 👋 My name is Hossam Gamal Mostafa
+# Hi there 👋 My name is Hossam
 
-I'm an **NLP Researcher and Developer** with 3 years of professional experience. Also, I'm an expert in Deep Learning and NLP with hands-on experience developing efficient and high-performing AI solutions.
+I'm an AI Developer and Research Engineer with hands-on experience developing reliable and high-performing AI solutions with a strong command of deep learning and natural language processing.
+
+Passionate about AI and its real-world impact, I help transform innovative ideas into practical, customer-focused applications that drive both value and trust.
 
 ## My main Areas of Experience
 
+- RAG and Agentic AI Applications
 - Multilingual NLP and LLMs
-- Information Extraction
-- Sentiment Analysis
-- Propaganda and Hate Speech Detection
-- RAG Applications
+- Information Retrieval and Extraction
+- On Scale Sentiment Analysis
+- AI Scientific Research
 
-I also have expertise in integrating my solutions into working applications (e.g. web applications) according to guidelines in cross-functional teams.
+Flexible and adaptable developer who can fit within your environment and collaborate with cross-functional teams.
 
 I also have a working knowledge of data structures and algorithms, problem-solving, and project management.
-
-I'm always trying to improve and keep myself updated with the latest changes in the field.
-
-I'm currently looking for a new challenge. Please get in touch with me to discuss how I might be helpful to your organization.
 
 ## Let's Connect
 
