@@ -1,23 +1,21 @@
-# Hi there 👋 My name is Hossam
+# Hi there 👋 I'm Hossam
 
-I'm an AI Developer and Research Engineer with hands-on experience developing reliable and high-performing AI solutions with a strong command of deep learning and natural language processing.
+I'm an **AI Engineer** who builds production-ready LLM applications, balancing performance, cost, and maintainability. I have 5 years of experience across NLP research, generative AI, and system design, from fine-tuning models to deploying them on the cloud.
 
-Passionate about AI and its real-world impact, I help transform innovative ideas into practical, customer-focused applications that drive both value and trust.
+## What I Build
 
-## My main Areas of Experience
+- **RAG and Agentic AI Applications**: retrieval pipelines, database AI agents, and text-to-SQL over real business data
+- **LLM Serving and Inference**: vLLM, llama.cpp, and Ollama, with quantization and constrained decoding for fast, reliable structured output
+- **Multilingual NLP**: Arabic and English named entity recognition, sentiment, and aspect-based sentiment analysis at scale
+- **Full-Stack AI Products**: FastAPI backends, React frontends, and Docker deployments on AWS, backed by automated tests
+- **Applied AI Research**: fine-tuning, LLM evaluation, and models for low-resource languages
 
-- RAG and Agentic AI Applications
-- Multilingual NLP and LLMs
-- Information Retrieval and Extraction
-- On Scale Sentiment Analysis
-- AI Scientific Research
+## Featured Project
 
-Flexible and adaptable developer who can fit within your environment and collaborate with cross-functional teams.
+**Product Reviews Analysis**: an aspect-based sentiment app that scores each aspect of a product review from 1 to 5, using a small open-weight LLM served on a CPU-only cloud server. It's live, and you can try it from my website.
 
-I also have a working knowledge of data structures and algorithms, problem-solving, and project management.
+## Find Me
 
-## Let's Connect
+My projects, background, and contact details are all in one place:
 
-- Email: [e-hossam96@outlook.com](mailto:e-hossam96@outlook.com)
-- LinkedIn: [linkedin.com/in/e-hossam96](https://www.linkedin.com/in/e-hossam96)
-- HuggingFace: [huggingface.co/e-hossam96](https://huggingface.co/e-hossam96)
+### 👉 [hossammostafa.ai](https://www.hossammostafa.ai)
