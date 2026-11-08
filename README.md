@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Hossam
 
-I'm an **AI Engineer** who builds production-ready LLM applications, balancing performance, cost, and maintainability. I have 5 years of experience across NLP research, generative AI, and system design, from fine-tuning models to deploying them on the cloud.
+I'm an **AI Engineer** who builds production-ready LLM applications, balancing performance, cost, and maintainability. I have 4+ years of experience across NLP research, generative AI, and system design, from fine-tuning models to deploying them on the cloud.
 
 ## What I Build
 
@@ -18,4 +18,4 @@ I'm an **AI Engineer** who builds production-ready LLM applications, balancing p
 
 My projects, background, and contact details are all in one place:
 
-### 👉 [hossammostafa.ai](https://www.hossammostafa.ai)
+### 👉 [hossammostafa.ai](https://hossammostafa.ai)
